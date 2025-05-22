@@ -9,7 +9,7 @@ Helping businesses grow their brands by providing them with beautiful, user-frie
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [dicocdedev](http://www.linkedin.com/in/dicodedev)
 * ✉️  You can contact me at [chisainty@gmail.com](mailto:chisainty@gmail.com)
-* 🚀  I'm currently working at [dicodetech](http://dicodetech.com)
+* 🚀  I'm currently working at [nadet](http://nadet.dev)
 * 🧠  I'm learning I'm learning Software Design Patterns, Prisma, DSA, Frontend Animations
 * 🤝  I'm open to collaborating on I'm open to collaborating on Full Stack Application / Startup / Frontend/ Backend.
 * ⚡  Ask me about PHP, laravel, Javacript, Reactjs
